@@ -21,7 +21,7 @@ setup_requirements = []
 test_requirements = []
 
 setup(
-    name=module_name',
+    name=module_name,
     version=version,
     packages=find_packages(where="src"),  # Required
     url=gihub_url,
